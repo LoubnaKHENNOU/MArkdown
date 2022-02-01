@@ -1,11 +1,14 @@
 # MArkdown
-#Je me suis déplacée vers le répertoir où le dossier existe :  Documents
+#Je me suis déplacée vers le répertoir où le dossier existe : Documents
 cd documents
 
 #J'ai créé un référentiel git vide
 git init
 
+
 #J'ai ajouté l'ensemble des fichiers scripts dans le dossier dédié (Fonction), j'ai donc ajouté le dossier Fonction
+#Etant donné que j'ai zipé l'ensemble des scripts dans un dossier Fonctions et j'ai regroupé les scripts dans un dossier Fonctions normal
+#La commande ci-dessous a ajouter les deux dossiers Fonctions (le normal et le zip)
 git add Fonctions
 
 #Pour vérifier l'ensemble des fichiers en instance d'etre commit, j'ai utilisé:
