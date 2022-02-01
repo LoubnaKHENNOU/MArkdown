@@ -1,8 +1,8 @@
 # MArkdown
-#Je me suis déplacée vers le répertoir où le dossier existe : Documents
+Je me suis déplacée vers le répertoir où le dossier existe : Documents - 
 cd documents
 
-#J'ai créé un référentiel git vide
+J'ai créé un référentiel git vide
 git init
 
 
